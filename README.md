@@ -4,11 +4,9 @@
 Aplikasi ini dirancang untuk membantu dalam pengelolaan dan penyimpanan informasi terkait kasus hukum. Sistem ini mengimplementasikan konsep Pemrograman Berorientasi Objek dalam pengembangan aplikasinya.
 
 ## 🚀 Fitur
-- Manajemen data kasus hukum
-- Pencatatan detail kasus  
-- Pencarian kasus
-- Pembaruan status kasus
-- Laporan dan dokumentasi kasus
+- Manajemen data Anggota, Perkara, hasil perkara
+- Pencatatan Anggota, Perkara, hasil perkara
+- Pencarian Anggota, Perkara, hasil perkara
 
 ## 💻 Teknologi yang Digunakan
 - Java
