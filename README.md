@@ -14,7 +14,8 @@ Aplikasi ini dirancang untuk membantu dalam pengelolaan dan penyimpanan informas
 - Java
 - MySQL Database  
 - NetBeans IDE
-- Object-Oriented Programming Concepts
+- Object-Oriented Programming Concepts/Dinamis
+  
 
 ## 📋 Prasyarat
 Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
