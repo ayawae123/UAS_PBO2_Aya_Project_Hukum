@@ -1,4 +1,4 @@
-# 🌟 UAS PBO 2 Project Hukum 🌟
+# 🌟 UAS PBO 2 Project Hukum (Java)🌟
 
 Mariyani (2210010095) Project Java untuk UAS PBO 2 (Hukum)
 
