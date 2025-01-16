@@ -37,15 +37,26 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 ## 📚 Struktur Project
 ```
 project-root/
-│
-├── src/                    # Source code
-│   ├── controllers/       # Controller classes
-│   ├── models/           # Model classes
-│   └── views/            # View files
-│
-├── database/              # Database files
-│
-└── README.md             # Documentation
+UAS_PBO2_Aya_Project_Hukum
+    ├───build
+    │   ├───classes
+    │   │   ├───aya_hukum
+    │   │   ├───config
+    │   │   ├───gui
+    │   │   └───laporan
+    │   ├───empty
+    │   └───generated-sources
+    │       └───ap-source-output
+    ├───dist
+    │   └───lib
+    ├───nbproject
+    │   └───private
+    ├───src
+    │   ├───aya_hukum
+    │   ├───config
+    │   ├───gui
+    │   └───laporan
+    └───test
 ```
 ## 👥 Kontributor
 - Aya - *Developer*
