@@ -20,7 +20,7 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 - Java Development Kit (JDK) 8 atau lebih tinggi
 - MySQL Server
 - NetBeans IDE atau IDE Java lainnya
-- XAMPP (opsional, untuk manajemen database)
+- XAMPP
 
 ## 🔧 Instalasi & Penggunaan
 1. Clone repository ini:
@@ -28,7 +28,7 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 
 2. Buka project menggunakan NetBeans IDE
 
-3. Import database yang tersedia dalam folder `database`
+3. Import database yang tersedia 'db_hukum.sql'
 
 4. Konfigurasikan koneksi database pada file konfigurasi  
 
