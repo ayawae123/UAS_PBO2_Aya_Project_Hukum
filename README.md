@@ -35,6 +35,7 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 5. Build dan jalankan aplikasi
 
 ## 📚 Struktur Project
+```
 project-root/
 │
 ├── src/                    # Source code
@@ -45,7 +46,7 @@ project-root/
 ├── database/              # Database files
 │
 └── README.md             # Documentation
-
+```
 ## 👥 Kontributor
 - Aya - *Developer*
 
