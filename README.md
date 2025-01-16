@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 - 🛠️ Java Development Kit (JDK) installed
-- 💻 An IDE (e.g., IntelliJ IDEA, Eclipse)
+- 💻 An IDE (Netbeans)
 
 ### Installation
 1. Clone the repo:
