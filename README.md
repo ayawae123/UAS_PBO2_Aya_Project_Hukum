@@ -27,16 +27,24 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 
 ## Preview
 ### Form Utama
-![form utama](https://github.com/user-attachments/assets/547afaf2-eef8-438d-aab6-9e65fe60a89d)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/547afaf2-eef8-438d-aab6-9e65fe60a89d" alt="form utama">
+</div>
 
 ### Form Anggota
-![form anggota](https://github.com/user-attachments/assets/9f9477b9-a00f-491f-b601-731362d72802)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/9f9477b9-a00f-491f-b601-731362d72802" alt="form anggota">
+</div>
 
 ### Form Perkara
-![form perkara](https://github.com/user-attachments/assets/20decc40-26a3-481b-8f29-94f714fffb7d)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/20decc40-26a3-481b-8f29-94f714fffb7d" alt="form perkara">
+</div>
 
 ### Form Hasil Perkara
-![hasil hasil perkara](https://github.com/user-attachments/assets/66213a60-9760-41c0-86b1-beb9ba8536fc)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/66213a60-9760-41c0-86b1-beb9ba8536fc" alt="form hasil perkara">
+</div>
 
 ## 🔧 Instalasi & Penggunaan
 1. Clone repository ini:
