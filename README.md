@@ -1,45 +1,68 @@
-# UAS PBO 2 Project Hukum (Java)
+# UAS PBO2 Project Hukum
 
-Proyek ini merupakan aplikasi Java yang dikembangkan oleh **Mariyani (2210010095)** sebagai tugas Ujian Akhir Semester (UAS) untuk mata kuliah Pemrograman Berorientasi Objek 2 (PBO 2) di bidang Hukum.
+## 📝 Deskripsi
+Aplikasi ini dirancang untuk membantu dalam pengelolaan dan penyimpanan informasi terkait kasus hukum. Sistem ini mengimplementasikan konsep Pemrograman Berorientasi Objek dalam pengembangan aplikasinya.
 
-## Daftar Isi
+## 🚀 Fitur
+- Manajemen data kasus hukum
+- Pencatatan detail kasus  
+- Pencarian kasus
+- Pembaruan status kasus
+- Laporan dan dokumentasi kasus
 
-- [Tentang Proyek](#tentang-proyek)
-- [Fitur Utama](#fitur-utama)
-- [Persiapan Awal](#persiapan-awal)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Struktur Proyek](#struktur-proyek)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-- [Kontak](#kontak)
+## 💻 Teknologi yang Digunakan
+- Java
+- MySQL Database  
+- NetBeans IDE
+- Object-Oriented Programming Concepts
 
-## Tentang Proyek
+## 📋 Prasyarat
+Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
+- Java Development Kit (JDK) 8 atau lebih tinggi
+- MySQL Server
+- NetBeans IDE atau IDE Java lainnya
+- XAMPP (opsional, untuk manajemen database)
 
-Proyek ini bertujuan untuk mengembangkan aplikasi yang dapat membantu dalam pengelolaan data hukum. Aplikasi ini dibangun menggunakan bahasa pemrograman Java dan menerapkan konsep Pemrograman Berorientasi Objek (PBO).
+## 🔧 Instalasi & Penggunaan
+1. Clone repository ini:
+```git clone https://github.com/ayawae123/UAS_PBO2_Aya_Project_Hukum.git```
 
-## Fitur Utama
+2. Buka project menggunakan NetBeans IDE
 
-- **Manajemen Data Hukum**: Menyimpan, mengedit, dan menghapus data terkait hukum.  
-- **Antarmuka Pengguna Grafis (GUI)**: Antarmuka yang ramah pengguna untuk memudahkan interaksi dengan aplikasi.  
-- **Koneksi Basis Data**: Menggunakan basis data untuk penyimpanan data yang efisien.  
+3. Import database yang tersedia dalam folder `database`
 
-## Persiapan Awal
+4. Konfigurasikan koneksi database pada file konfigurasi  
 
-Sebelum memulai, pastikan Anda telah menyiapkan perangkat lunak berikut:
+5. Build dan jalankan aplikasi
 
-### Prasyarat
+## 📚 Struktur Project
+project-root/
+│
+├── src/                    # Source code
+│   ├── controllers/       # Controller classes
+│   ├── models/           # Model classes
+│   └── views/            # View files
+│
+├── database/              # Database files
+│
+└── README.md             # Documentation
 
-- **Java Development Kit (JDK)**: Pastikan JDK versi terbaru telah terinstal di sistem Anda.  
-- **NetBeans IDE**: Disarankan menggunakan NetBeans untuk kemudahan pengembangan.  
-- **XAMPP**: Untuk menjalankan server MySQL dan Apache.  
+## 👥 Kontributor
+- Aya - *Developer*
 
-## Instalasi
+## 📄 Lisensi
+Project ini dilisensikan di bawah [MIT License](LICENSE)
 
-Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lingkungan lokal Anda:
+## 📞 Kontak
+Untuk pertanyaan dan informasi lebih lanjut, silakan hubungi:
+- Email: [Your Email]
+- GitHub: [@ayawae123](https://github.com/ayawae123)
 
-1. **Kloning Repositori**:
+## 🙏 Pengakuan
+Terima kasih kepada:
+- Dosen Pengampu mata kuliah PBO2
+- Teman-teman yang telah membantu dalam pengembangan
+- Referensi dan sumber pembelajaran yang digunakan
 
-   ```bash
-   git clone https://github.com/ayawae123/UAS_PBO2_Aya_Project_Hukum.git
-
+---
+⭐ Project ini dibuat dengan ♥ sebagai bagian dari UAS PBO2
