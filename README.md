@@ -25,6 +25,19 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 - NetBeans IDE atau IDE Java lainnya
 - XAMPP
 
+## Preview
+### Form Utama
+![form utama](https://github.com/user-attachments/assets/547afaf2-eef8-438d-aab6-9e65fe60a89d)
+
+### Form Anggota
+![form anggota](https://github.com/user-attachments/assets/9f9477b9-a00f-491f-b601-731362d72802)
+
+### Form Perkara
+![form perkara](https://github.com/user-attachments/assets/20decc40-26a3-481b-8f29-94f714fffb7d)
+
+### Form Hasil Perkara
+![hasil hasil perkara](https://github.com/user-attachments/assets/66213a60-9760-41c0-86b1-beb9ba8536fc)
+
 ## 🔧 Instalasi & Penggunaan
 1. Clone repository ini:
 ```git clone https://github.com/ayawae123/UAS_PBO2_Aya_Project_Hukum.git```
