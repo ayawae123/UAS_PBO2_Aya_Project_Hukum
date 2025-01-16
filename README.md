@@ -1,5 +1,8 @@
 # UAS PBO2 Project Hukum
 
+>[!note]
+> Mariyani - 2210010095 UAS PBO 2 (Hukum)
+
 ## 📝 Deskripsi
 Aplikasi ini dirancang untuk membantu dalam pengelolaan dan penyimpanan informasi terkait kasus hukum. Sistem ini mengimplementasikan konsep Pemrograman Berorientasi Objek dalam pengembangan aplikasinya.
 
