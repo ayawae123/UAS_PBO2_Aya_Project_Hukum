@@ -25,7 +25,7 @@ Sebelum menjalankan aplikasi ini, pastikan telah menginstal:
 - NetBeans IDE atau IDE Java lainnya
 - XAMPP
 
-## Preview
+## 🖼️ Preview
 ### Form Utama
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/547afaf2-eef8-438d-aab6-9e65fe60a89d" alt="form utama">
